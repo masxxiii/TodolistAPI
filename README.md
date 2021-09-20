@@ -20,8 +20,6 @@ CRUD operations.
 
 <br />
 
----
-
 Below we have the **directory tree** of the project.
 
 <p align="center">
@@ -45,9 +43,8 @@ Now move to the src folder **/BackendTodolist/src** and run the project using **
 
 ```shell
 nodemon app.js
-```
 
----
+<br />
 
 ## Note
 
