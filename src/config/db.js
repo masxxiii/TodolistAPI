@@ -4,7 +4,7 @@ const mongoose = require("mongoose");
 //Connecting database and creating our schema
 mongoose.connect("mongodb://localhost:27017/listDB");
 
-//Creating our schema
+//Items schema
 const newItemsSchema = {
     name: String
 };
