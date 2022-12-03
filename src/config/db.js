@@ -9,7 +9,7 @@ const newItemsSchema = {
     name: String
 };
 
-//Creating a new collection based on schema
+//Creating a new mongoose collection based on schema
 const ItemCollection = mongoose.model("Item", newItemsSchema);
 
 module.exports = ItemCollection;
